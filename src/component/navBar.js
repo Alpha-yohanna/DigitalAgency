@@ -102,7 +102,7 @@ const Navbar = () => {
         <div className="flex items-center">
           <div>
             <span className="text-black font-Poppins font-bold text-20">
-              Design
+              Digital
             </span>
             <span className="text-orange-500 font-Poppins font-bold text-20">
               Agency
