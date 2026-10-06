@@ -5,9 +5,9 @@
     <title>DigitalAgency</title>
     <script>
       if (location.pathname.endsWith("/admin")) {
-        location.replace("/#/admin");
+        location.replace(location.pathname.replace(/\/admin\/?$/, "/") + "#/admin");
       } else {
-        location.replace("/");
+        location.replace(location.pathname.replace(/\/404\.html$/, "/"));
       }
     </script>
   </head>
