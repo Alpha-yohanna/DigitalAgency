@@ -2,7 +2,7 @@
   "name": "design_agency",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://teamhub.alphayohanna.com",
+  "homepage": "https://digitalagency.alphayohanna.com",
   "dependencies": {
     "@supabase/supabase-js": "^2.111.0",
     "@testing-library/jest-dom": "^5.17.0",
